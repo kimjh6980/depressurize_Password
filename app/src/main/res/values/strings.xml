@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">depressurize_Password</string>
+
+    <string-array name="depressure">
+        <item>0.1</item>
+        <item>0.2</item>
+        <item>0.3</item>
+        <item>0.4</item>
+        <item>0.5</item>
+        <item>0.6</item>
+        <item>0.7</item>
+        <item>0.8</item>
+        <item>0.9</item>
+    </string-array>
+</resources>

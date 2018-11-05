@@ -125,6 +125,7 @@ public class PrivateScreen extends AppCompatActivity {
             pwbtn[i].setBackground(getResources().getDrawable(R.drawable.circle_white));
         }
         pw="";
+        pwbtnCount = 0;
     }
 
     public void CO(View view) {
